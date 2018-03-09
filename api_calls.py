@@ -43,4 +43,3 @@ def distance():
         print('Numercial arrays only')
     except:
         print('Oops, something failed! :(')
-
